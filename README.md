@@ -7,7 +7,7 @@
 😄 Open for collaborations to create some exciting projects<br>
 🔭 Looking to make an impact in the industry
 
-##Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
