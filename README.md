@@ -1,8 +1,8 @@
 ## Hi there 👋 I am Mini!
 
-👩🏻‍💻 Data Scientist sharing about my journey and learnings in tech
-👩🏻‍🎓 Studied Data Science at the University at Buffalo, New York
-💭 Currently learning about data analytics and Machine Learning.
-⚡ Determined and hard working women with positive attitude towards life.
-😄 Open for collaborations
+👩🏻‍💻 Data Scientist sharing about my journey and learnings in tech<br>
+👩🏻‍🎓 Studied Data Science at the University at Buffalo, New York<br>
+💭 Currently learning about data analytics and Machine Learning.<br>
+⚡ Determined and hard working women with positive attitude towards life.<br>
+😄 Open for collaborations<br>
 🔭 Looking to make an impact in the industry
